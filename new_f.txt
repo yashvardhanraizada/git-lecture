@@ -1,0 +1,1 @@
+Text inside new file in new branch.
