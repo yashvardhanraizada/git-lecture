@@ -4,6 +4,6 @@ This is the first file which you will be changing.
 
 Enter your details as specified.
 
-My name is _. My hometown is _. I currently reside in Hall _.
+My name is _yvr. My hometown is knp_. I currently reside in Hall3 _.
 
 After you're done entering these details, add this file to the staging area using `git add first_change.txt`.
